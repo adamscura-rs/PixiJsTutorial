@@ -23,6 +23,6 @@
     "gulp-connect": "^5.0.0"
   },
   "dependencies": {
-    "pixi.js": "4.3.5"
+    "pixi.js": "4.5.5"
   }
 }
